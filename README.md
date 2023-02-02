@@ -35,8 +35,8 @@ Sistema para calcular a quantidade de comida de bebida necessária para um churr
 
 <div align=center>
 
-  <a href="mailto:gabriel2002morozini@gmail.com" >
-    <img src="https://img.shields.io/badge/gabriel2002morozini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+  <a href="mailto:gabril.dev@gmail.com" >
+    <img src="https://img.shields.io/badge/gabril.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   
    <a href="https://www.linkedin.com/in/gabrielmorozini/">
