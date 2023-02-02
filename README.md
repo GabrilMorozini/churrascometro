@@ -27,6 +27,7 @@ Sistema para calcular a quantidade de comida de bebida necessária para um churr
 ## 🖥️ Tecnologias utilizadas
 
 * HTML
+* CSS
 * JavaScript
 * BootStrap
 
