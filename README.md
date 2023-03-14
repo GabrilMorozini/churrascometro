@@ -31,6 +31,9 @@ Sistema para calcular a quantidade de comida de bebida necessária para um churr
 * JavaScript
 * BootStrap
 
+## ✒️ Licença
+Esse projeto está sob licença MIT. Leia o arquivo <a href="./license" >LICENSE</a> para mais detalhes. 
+
 <br><br>
 
 <div align=center>
@@ -40,7 +43,7 @@ Sistema para calcular a quantidade de comida de bebida necessária para um churr
   </a>
   
    <a href="https://www.linkedin.com/in/gabrielmorozini/">
-    <img src="https://img.shields.io/badge/linkedin.com/in/gabrielmorozini/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmail">
+    <img src="https://img.shields.io/badge/linkedin.com/in/gabrielmorozini/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>  
 
 </div>
